@@ -12,7 +12,6 @@ With a focus on continuous learning and development, this book encourages reader
 
 If you're ready to take your performance to the next level and achieve your goals, then "The Power of Feedback" is a must-read. Let's harness the power of feedback together and unlock our full potential.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
