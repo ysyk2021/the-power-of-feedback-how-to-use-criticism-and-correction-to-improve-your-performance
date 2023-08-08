@@ -33,3 +33,4 @@
   - [Building processes and frameworks to support effective feedback](chapter-8-2.md)
   - [Strategies for continuous growth](chapter-8-3.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
