@@ -3,7 +3,7 @@ The Challenges of Receiving and Giving Feedback
 
 Feedback is an essential tool for personal and professional growth. It allows individuals to learn, develop new skills, and improve their performance. However, both giving and receiving feedback can be challenging processes that require tact, empathy, and effective communication. In this chapter, we will explore the various obstacles and difficulties faced when providing and receiving feedback.
 
-1. Receiving Feedback
+1\. Receiving Feedback
 ---------------------
 
 ### 1.1 Overcoming Defensiveness
@@ -18,7 +18,7 @@ Receiving feedback, especially negative feedback, can evoke strong emotional rea
 
 Often, individuals are only receptive to feedback when it is provided to them. However, proactively seeking feedback can be an invaluable skill. Overcoming the fear of judgment and actively soliciting input from others can lead to valuable insights and foster a culture of continuous improvement.
 
-2. Giving Feedback
+2\. Giving Feedback
 ------------------
 
 ### 2.1 Providing Constructive Criticism
