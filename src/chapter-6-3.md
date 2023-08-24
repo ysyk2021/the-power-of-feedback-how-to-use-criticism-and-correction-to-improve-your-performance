@@ -1,5 +1,3 @@
-Balancing Positive and Negative Feedback
-=================================================
 
 Feedback is a powerful tool that can help individuals improve their performance and achieve their goals. It provides valuable insights into strengths, weaknesses, and areas for development. In order to maximize the benefits of feedback, it is crucial to strike a balance between positive and negative feedback.
 

@@ -1,5 +1,3 @@
-Chapter 2: Developing a Feedback Mindset
-========================================
 
 Feedback is an essential tool for personal and professional growth. However, many people are resistant to feedback because they fear criticism or believe that they already know everything they need to know. In this chapter, we will explore how to develop a feedback mindset that embraces feedback as a valuable opportunity for growth.
 

@@ -1,5 +1,3 @@
-Incorporating Feedback into Goal-Setting
-=================================================
 
 In this chapter, we will explore the importance of incorporating feedback into goal-setting and how it can enhance your performance and personal growth. Feedback is a valuable tool that provides insights into our strengths, weaknesses, and areas for improvement. By leveraging feedback effectively, we can set meaningful goals that align with our aspirations and maximize our chances of success.
 

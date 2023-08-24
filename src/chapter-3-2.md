@@ -1,7 +1,3 @@
-Techniques for Developing a Feedback Mindset
-=====================================================
-
-
 
 In this chapter, we will explore various techniques that can help you develop a feedback mindset. Understanding the importance of feedback and embracing it as a tool for personal growth is crucial in improving your performance. By adopting these techniques, you can cultivate a positive attitude towards receiving criticism and corrections, ultimately enhancing your overall performance.
 

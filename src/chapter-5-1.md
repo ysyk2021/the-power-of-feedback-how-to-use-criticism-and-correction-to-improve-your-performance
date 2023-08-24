@@ -1,5 +1,3 @@
-Techniques for Giving Feedback Effectively
-===================================================
 
 In this chapter, we will explore various techniques that can help individuals deliver feedback effectively. The ability to provide constructive criticism and correction is essential for fostering personal and professional growth. By employing these techniques, you can enhance the impact of your feedback and promote a positive environment for improvement.
 

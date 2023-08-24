@@ -1,5 +1,3 @@
-Chapter 6: Feedback in Teams and Organizations
-==============================================
 
 In teams and organizations, feedback is a vital component of success. It allows individuals to work together more effectively, identify areas for improvement, and make necessary changes to achieve their goals. In this chapter, we will explore strategies for incorporating feedback into team dynamics, building a culture of feedback, and managing feedback at the organizational level.
 

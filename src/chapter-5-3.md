@@ -1,5 +1,3 @@
-Providing Actionable Feedback
-======================================
 
 In this chapter, we will explore the importance of providing actionable feedback and how it can significantly enhance performance improvement. Feedback is a powerful tool that enables individuals to learn and grow, but it is essential to deliver it in a constructive and actionable manner.
 

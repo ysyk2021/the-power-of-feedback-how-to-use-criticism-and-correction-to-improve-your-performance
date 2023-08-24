@@ -1,5 +1,3 @@
-Overcoming Resistance to Feedback
-==========================================
 
 Feedback is an essential tool for personal and professional growth. It provides valuable insights that can help us identify areas of improvement and enhance our performance. However, it is not uncommon for individuals to resist or reject feedback. In this chapter, we will explore strategies to overcome resistance to feedback and create a positive feedback culture.
 

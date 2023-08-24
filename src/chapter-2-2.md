@@ -1,5 +1,3 @@
-Types of Feedback
-============================
 
 In this chapter, we will explore the different types of feedback that can be used to enhance individual and collective performance. Feedback plays a crucial role in providing valuable insights, improving skills, and fostering growth. Understanding the various types of feedback allows us to tailor our approach based on specific situations and desired outcomes.
 

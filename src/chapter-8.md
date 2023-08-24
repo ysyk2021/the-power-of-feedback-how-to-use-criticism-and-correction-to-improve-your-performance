@@ -1,5 +1,3 @@
-Chapter 7: Sustaining Feedback
-==============================
 
 Providing feedback is not a one-time event. It is an ongoing process that requires consistent effort and commitment. In this chapter, we will discuss how to sustain feedback over time and ensure that it continues to drive growth and development.
 
@@ -34,5 +32,4 @@ Finally, feedback can help drive continuous growth and development. Here are som
 * **Build a supportive network:** Build a supportive network of mentors, coaches, and colleagues who can provide ongoing feedback, advice, and encouragement.
 
 By maintaining motivation and momentum, building processes and frameworks to support effective feedback, and embracing strategies for continuous growth, feedback can become a powerful tool for sustained improvement and development.
-
 

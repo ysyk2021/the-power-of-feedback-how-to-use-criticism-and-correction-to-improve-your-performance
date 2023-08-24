@@ -1,5 +1,3 @@
-Managing Emotional Reactions to Feedback
-=================================================
 
 Feedback is an essential tool for personal growth and improving performance. However, receiving feedback can sometimes trigger strong emotional reactions. It is natural to feel defensive, hurt, or even angry when someone points out areas where we need improvement. To make the most of feedback, it is crucial to learn how to manage our emotions effectively. In this chapter, we will explore strategies for handling emotional reactions to feedback constructively.
 

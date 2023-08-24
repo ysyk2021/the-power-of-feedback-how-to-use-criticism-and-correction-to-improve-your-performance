@@ -1,5 +1,3 @@
-Chapter 1: Understanding Feedback
-=================================
 
 Feedback plays a crucial role in personal and professional growth. In this chapter, we will explore what feedback is, the different types of feedback, and the benefits of effective feedback.
 

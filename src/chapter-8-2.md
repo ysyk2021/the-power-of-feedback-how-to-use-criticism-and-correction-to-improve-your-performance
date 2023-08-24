@@ -1,5 +1,3 @@
-Building Processes and Frameworks to Support Effective Feedback
-========================================================================
 
 In this chapter, we will explore the importance of establishing robust processes and frameworks to facilitate effective feedback. Constructing a solid foundation for feedback not only enhances individual performance but also contributes to organizational growth and development.
 

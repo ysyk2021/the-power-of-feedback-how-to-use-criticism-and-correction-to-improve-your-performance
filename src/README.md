@@ -1,4 +1,3 @@
-# Introduction
 
 Feedback is an essential part of personal and professional growth. It can help us identify areas for improvement, build self-awareness, and achieve our goals. However, many people struggle with receiving and giving feedback, and it can be difficult to know how to use it effectively.
 

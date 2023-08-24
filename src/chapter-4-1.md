@@ -1,5 +1,3 @@
-Techniques for Receiving Feedback Effectively
-======================================================
 
 Receiving feedback is an essential skill for personal and professional growth. It helps us gain valuable insights into our strengths, weaknesses, and areas for improvement. However, receiving feedback can sometimes be challenging as it may trigger defensive reactions or hurt our ego. In this chapter, we will explore techniques for effectively receiving feedback in a constructive and growth-oriented manner.
 

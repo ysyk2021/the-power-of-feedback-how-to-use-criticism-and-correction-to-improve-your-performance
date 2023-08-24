@@ -1,5 +1,3 @@
-Building a Culture of Feedback
-==============================
 
 In order to improve performance and foster a positive and productive work environment, it is essential to build a culture of feedback within an organization. A culture of feedback encourages open communication, continuous learning, and personal growth. In this chapter, we will explore the key elements necessary for creating such a culture.
 

@@ -1,5 +1,3 @@
-Chapter 4: Giving Feedback
-==========================
 
 Giving feedback is just as important as receiving it. Effective feedback can help individuals and teams achieve their goals, while poor feedback can lead to frustration and resentment. In this chapter, we will discuss techniques for giving feedback effectively, creating a safe and constructive feedback environment, and providing actionable feedback.
 

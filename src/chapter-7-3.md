@@ -1,5 +1,3 @@
-Managing Feedback at the Organizational Level
-======================================================
 
 In this chapter, we will explore how organizations can effectively manage feedback to enhance performance and foster a culture of continuous improvement. Feedback plays a crucial role in organizational success as it provides valuable insights into areas that require attention and promotes individual and collective growth.
 

@@ -1,5 +1,3 @@
-Chapter 3: Receiving Feedback
-=============================
 
 Receiving feedback is a critical part of personal and professional growth. However, receiving feedback effectively can be challenging. In this chapter, we will discuss techniques for receiving feedback effectively, managing emotional reactions to feedback, and incorporating feedback into personal development.
 
@@ -39,5 +37,4 @@ Conclusion
 ----------
 
 Receiving feedback effectively is critical to personal and professional growth. By using techniques for receiving feedback effectively, managing emotional reactions to feedback, and incorporating feedback into personal development, individuals can use feedback to drive positive change and achieve their goals.
-
 
