@@ -1,5 +1,4 @@
-Chapter: Techniques for Developing a Feedback Mindset
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the techniques for developing a feedback mindset and harnessing the power of criticism and correction to improve performance. We delve into the importance of embracing feedback, provide strategies for receiving and processing feedback effectively, and discuss how to leverage it for personal growth and improvement.
 
